@@ -4,7 +4,7 @@
 
     <menuitem
         id="lab_cachier_menu"
-        name="Cashier"
+        name="Main dir Cashier"
         parent="menu_root_lab"
         sequence="15"/>
 
